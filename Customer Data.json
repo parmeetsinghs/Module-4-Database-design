@@ -1,0 +1,268 @@
+[{
+  "_id": {
+    "$oid": "6355e84caf46cafb59dada53"
+  },
+  "customername": "Param",
+  "phoneNumber": {
+    "$numberLong": "8155843561"
+  },
+  "address": "Tempe",
+  "loanAmount": 200,
+  "intrest": 3,
+  "loanTermYears": 7,
+  "loanType": "Car Loan",
+  "description": "Car Loan",
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true,
+  "modifiedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6355efddaf46cafb59e61c73"
+  },
+  "customername": "Aadir",
+  "phoneNumber": {
+    "$numberLong": "6822144712"
+  },
+  "address": "Mesa",
+  "loanAmount": 100,
+  "intrest": 4,
+  "loanTermYears": 10,
+  "loanType": "Buisness Loan",
+  "description": "Business Loan",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true,
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6355f15baf46cafb59e8cbc7"
+  },
+  "customername": "Manga",
+  "phoneNumber": 1236752014,
+  "address": "Texas",
+  "loanAmount": 90,
+  "intrest": 8,
+  "loanTermYears": 4,
+  "loanType": "Credit Loan",
+  "description": " Credit Card",
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false,
+  "ModifiedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "6355f1feaf46cafb59e9d99a"
+  },
+  "customername": "Surya",
+  "phoneNumber": {
+    "$numberLong": "7854789631"
+  },
+  "address": "UK",
+  "loanAmount": 170,
+  "intrest": 6,
+  "loanTermYears": 4,
+  "loanType": "Car Loan",
+  "description": "to buy bugati car",
+  "CreatedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "ModifiedDate": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f2f0af46cafb59eb3788"
+  },
+  "customername": "Sahib",
+  "phoneNumber": 1254789635,
+  "address": "Mesa",
+  "loanAmount": 300,
+  "intrest": 2,
+  "loanTermYears": 3,
+  "loanType": "CarLoan",
+  "description": "Car Loan",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false
+},{
+  "_id": {
+    "$oid": "6355f387af46cafb59ec10d9"
+  },
+  "customername": "Jahagnig",
+  "phoneNumber": {
+    "$numberLong": "8745963125"
+  },
+  "address": "Tempe",
+  "loanAmount": 75,
+  "intrest": 6,
+  "loanTermYears": 8,
+  "loanType": "Student Loan",
+  "description": "Student loan",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f544af46cafb59eec8a8"
+  },
+  "customername": "Abhi",
+  "phoneNumber": {
+    "$numberLong": "7854123694"
+  },
+  "address": "Phoenix",
+  "loanAmount": 500,
+  "intrest": 9,
+  "loanTermYears": 9,
+  "loanType": "Bike Loan",
+  "description": " bike",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false
+},{
+  "_id": {
+    "$oid": "6355f5daaf46cafb59ef985e"
+  },
+  "customername": "Dripraj",
+  "phoneNumber": {
+    "$numberLong": "4587698580"
+  },
+  "address": "Dallas",
+  "loanAmount": 900,
+  "intrest": 4,
+  "loanTermYears": 6,
+  "loanType": "Home Loan",
+  "description": "buy house",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f6c9af46cafb59f0fbde"
+  },
+  "customername": "Visvaraj",
+  "phoneNumber": {
+    "$numberLong": "5651541254"
+  },
+  "address": "Jesalmer",
+  "loanAmount": 300,
+  "intrest": 4,
+  "loanTermYears": 6,
+  "loanType": "Education Loan",
+  "description": "Tfor Master's Degree",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f751af46cafb59f1ba2f"
+  },
+  "customername": "Messi",
+  "phoneNumber": 154514842,
+  "address": "Kansas",
+  "loanAmount": 250,
+  "intrest": 10,
+  "loanTermYears": 23,
+  "loanType": "Car Loan",
+  "description": "Car Loan",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": true
+},{
+  "_id": {
+    "$oid": "6355f7a6af46cafb59f24624"
+  },
+  "customername": "Kavan",
+  "phoneNumber": 883946354,
+  "address": "LA",
+  "loanAmount": 200,
+  "intrest": 8,
+  "loanTermYears": 10,
+  "loanType": "Education Loan",
+  "description": "Tfor Master's Degree",
+  "Created Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Modified Date": {
+    "$date": {
+      "$numberLong": "0"
+    }
+  },
+  "Status": false
+}]
